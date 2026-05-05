@@ -1,1 +1,1 @@
-# GitHub Deploy
+# github-deploy
